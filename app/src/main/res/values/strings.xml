@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dr.Health</string>
+    <string name="guahao">挂号</string>
+    <string name="daoyi">导医</string>
+</resources>
